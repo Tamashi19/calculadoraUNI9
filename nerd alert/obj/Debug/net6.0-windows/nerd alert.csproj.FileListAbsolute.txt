@@ -1,0 +1,17 @@
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\bin\Debug\net6.0-windows\nerd alert.exe
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\bin\Debug\net6.0-windows\nerd alert.deps.json
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\bin\Debug\net6.0-windows\nerd alert.runtimeconfig.json
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\bin\Debug\net6.0-windows\nerd alert.dll
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\bin\Debug\net6.0-windows\nerd alert.pdb
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.AssemblyInfoInputs.cache
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.AssemblyInfo.cs
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.csproj.CoreCompileInputs.cache
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.dll
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\refint\nerd alert.dll
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.pdb
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.genruntimeconfig.cache
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\ref\nerd alert.dll
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd_alert.Form1.resources
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd_alert.Properties.Resources.resources
+C:\Users\lab-vp\source\repos\nerd alert\nerd alert\obj\Debug\net6.0-windows\nerd alert.csproj.GenerateResource.cache
